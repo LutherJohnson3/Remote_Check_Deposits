@@ -4,4 +4,5 @@
 
 I led a UX team that pioneered an early iteration of software that allows users to deposit checks remotely.  Today, that software is licensed to most banks across the country.  Most USAA Federal Savings Bank customers are active United States military members.  Bank branches are not available to them.  A solution was necessary to enable military personnel to remotely deposit their checks and pay their bills.
 
-USAA Bank has strict rules against employees saving company design files.
+Disclaimer:
+In accordance with USAA Bank policy, all design files and related materials must remain within the secured company environment. Saving, copying, or removing these files from USAA premises or local systems is strictly prohibited.
